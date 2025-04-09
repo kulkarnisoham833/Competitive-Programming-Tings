@@ -1,3 +1,5 @@
+https://cses.fi/book/book.pdf
+
 starter code
 ```
 #include <bits/stdc++.h>
